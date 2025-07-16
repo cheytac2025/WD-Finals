@@ -160,6 +160,18 @@ header {
   box-shadow: 0 0 30px #00ffff;
 }
 
+.cert-heading-link {
+  color: #0ff;
+  text-decoration: none;
+  text-shadow: 0 0 10px #0ff;
+  transition: color 0.3s ease, text-shadow 0.3s ease;
+}
+
+.cert-heading-link:hover {
+  color: #39ff14;
+  text-shadow: 0 0 12px #39ff14;
+}
+
 /* Modal Container */
 .modal {
   display: none;
@@ -309,3 +321,15 @@ header {
   color: white;
   text-shadow: 0 0 10px #00ffff;
 }
+
+.modal {
+  display: none; /* Prevents it from blocking everything */
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  background-color: rgba(0, 0, 0, 0.9);
+  z-index: 999;
+}
+
