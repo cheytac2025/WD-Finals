@@ -9,18 +9,18 @@
     <img src="assets/img/sakuragi.png" alt="Logo" width="130" height="100">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="WD-Seatwork-1">Title</h3>
+  <h3 align="WD-Seatwork-1">WD-Finals</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-WD-Seatwork-1 is a web development project designed to apply and demonstrate foundational skills in creating structured, styled, and responsive web pages. This project focuses on building clean layouts using HTML and CSS, while ensuring accessibility and user-friendly navigation.
+WD-Finals - A portfolio is a personal website that showcases your skills, projects, and achievements. It reflects your personality, highlights your best work, and helps potential employers or collaborators understand what you can do. A good portfolio includes an About Me section, education, sample projects, and contact details.
 </div>
 
 <br />
 
 <!-- TODO: Change the zyx-0314 into your github username  -->
 <!-- TODO: Change the WD-Template-Project into the same name of your folder -->
-![](https://visit-counter.vercel.app/counter.png?page=cheytac2025/WD-Seatwork-1)
+![](https://visit-counter.vercel.app/counter.png?page=cheytac2025/WD-Finals)
 
 
 ---
@@ -56,16 +56,24 @@ WD-Seatwork-1 is a web development project designed to apply and demonstrate fou
 
 ## Overview
 
-WD-Seatwrok-1 is a web development project designed to apply and demonstrate foundational skills in creating structured, styled, and responsive web pages. This project focuses on building clean layouts using HTML and CSS, while ensuring accessibility and user-friendly navigation.
+WD-Finals - A portfolio is a personal website that showcases your skills, projects, and achievements. It reflects your personality, highlights your best work, and helps potential employers or collaborators understand what you can do. A good portfolio includes an About Me section, education, sample projects, and contact details.
 
 ✨ Key Features:
-Responsive web design
+About Me Section – A brief introduction that highlights your background, interests, and goals.
 
-Organized header, footer, and content sections
+Skills & Technologies – A list of your technical abilities, tools, and programming languages.
 
-Custom styling for visual appeal
+Projects Gallery – Showcases your best works with descriptions and links to live demos or GitHub.
 
-Clean and semantic HTML structure
+Responsive Design – Looks great on all devices (mobile, tablet, desktop).
+
+Contact Information – Easy ways for visitors to reach you via email, phone, or social media.
+
+Clean and Consistent Layout – Easy-to-navigate structure with a modern design.
+
+Downloadable Resume (optional) – Lets recruiters quickly access your full credentials.
+
+Dark/Light Theme (optional) – A toggle for users to choose their preferred viewing mode.
 
 🚀 Technologies Used:
 HTML5
@@ -73,16 +81,19 @@ HTML5
 CSS3
 
 📂 Purpose:
-This project serves as a seatwork activity for practicing web design fundamentals, specifically focusing on layout structuring, styling, and component positioning.
+The purpose of this portfolio is to showcase my skills, projects, and experience as a BSIT-CST student. It serves as a digital resume that reflects my passion for technology and my goal of contributing to the field, whether through industry work or public service.
 
 ### Key Components
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
-- Single Page Website
--   Responsive Layout  
-- Fixed Header with Navigation  
-- Centered Navigation Menu  
-- Custom Footer Section
+-Header & Navigation – Easy access to all main sections.
+-About Me – Brief intro, background, and career goals.
+-Education – Academic background and achievements.
+-Projects – Highlights of your best work with descriptions.
+-Skills – Tools, languages, and technologies you’re proficient in.
+-Contact Information – Ways to reach you (email, phone, links).
+
+Footer – Copyright, navigation links, and optional social media.
 
 ### Technology
 <!-- TODO: List of Technology Used -->
@@ -128,6 +139,6 @@ WD-ProjectName
 
 | Title | Purpose | Link |
 |-------|---------|------|
-| Pinterest Design Inspiration 1 | Used as visual reference for layout and design structure. | [Visit](https://www.pinterest.com/pin/5207355812960956/) |
-| Pinterest Wireframe UI Kit | Served as a guide for desktop and mobile wireframe layout. | [Visit](https://www.pinterest.com/pin/dob-desktop-mobile-wireframe-ui-kit-wireframe-kits--84020349290680719/) |
+| Credly | Used to showcase certificates. | [Visit](https://www.credly.com/users/karl-emmanuel-robles/badges#credly) |
+| Github | Used to get the previous projecs and For version control and repository hosting.. | [Visit](https://www.pinterest.com/pin/dob-desktop-mobile-wireframe-ui-kit-wireframe-kits--84020349290680719/) |
 
