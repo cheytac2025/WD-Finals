@@ -56,6 +56,7 @@ header {
   border-radius: 30px;
   border: 1px solid transparent;
   transition: all 0.3s ease;
+  text-decoration: none;
 }
 
 .nav a.active,
@@ -162,6 +163,7 @@ header {
   border: 1px solid transparent;
   background-color: transparent;
   transition: all 0.3s ease;
+  text-decoration: none; 
 }
 
 .footer-nav a:hover {
@@ -178,7 +180,6 @@ header {
   text-shadow: 0 0 4px #00ffff;
 }
 
-/* ===== Responsive ===== */
 @media (max-width: 768px) {
   .home-content {
     flex-direction: column;
